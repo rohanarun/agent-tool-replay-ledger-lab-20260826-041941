@@ -1,0 +1,1 @@
+I built a tool replay ledger explorer: tune trace detail and tool calls to see when an agent run remains explainable after the fact.
